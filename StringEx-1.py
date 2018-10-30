@@ -1,6 +1,6 @@
 first_name = "Brendan"
 last_name = "Wood"
-email = "bwood@champlain.college.qc.ca"
+email = "bwood@champlaincollege.qc.ca"
 number = 42
 
 result = first_name.upper() + " " + last_name.upper() + "; and my favourite" \
